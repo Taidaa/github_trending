@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "port": "3306",
+    "database": "trendingrepositories",
+    "api_key": "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"
+}
